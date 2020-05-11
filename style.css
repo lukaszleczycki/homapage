@@ -1,0 +1,38 @@
+body {
+    text-align:center;
+}
+.tlo {
+background-color: rgba(241, 225, 222, 0.555);
+
+}
+h1 {
+    color: #011627;
+}
+h2 {
+    color: #011627;
+}
+h3 {
+    color: #6C809A;
+}
+p {
+    color: #011627;
+}
+h4 {
+    color: rgb(46, 61, 3);
+}
+
+
+.logo-css {
+    width:250px;
+    height:250px;
+}
+
+.logo-html {
+    width:250px;
+    height:250px;
+}
+
+.logo-js {
+    width:250px;
+    height:250px;
+}
